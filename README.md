@@ -1,5 +1,5 @@
-# learning-js
-armazenando coisas que eu faço para aprender javascript
+# learning html-css
+armazenando coisas que eu faço para aprender html e css
 
 
 <h3>REFERÊNCIAS DE ESTUDO – online</h3>
@@ -10,4 +10,4 @@ armazenando coisas que eu faço para aprender javascript
 
 - WHATWG Living Standard: grupo de estudos para a evolução da HTML.
 
-– W3Schools: material de referência para várias linguagens.
+- W3Schools: material de referência para várias linguagens.
